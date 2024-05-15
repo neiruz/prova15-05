@@ -1,0 +1,21 @@
+
+@import url(banner.css);
+
+@import url(conteudo.css);
+
+@import url(card.css);
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Briem Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+    
+}
+
+
+
